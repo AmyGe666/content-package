@@ -1,0 +1,33 @@
+{
+	"product-role1": {
+		"type": "role",
+		"src": {
+			"from": "./internalsamples/product-card/src",
+			"content": "role.json"
+		}
+	},
+	"product-card": {
+		"type": "card",
+		"src": {
+			"from": "./internalsamples/product-card/src",
+			"path": "./",
+			"build": "",
+			"package": "",
+			"manifest": "manifest.json"
+		}
+	},
+	"product-space": {
+		"type": "space",
+		"src": {
+			"from": "./internalsamples/product-card/src",
+			"content": "space.json"
+		}
+	},
+	"product-workpage": {
+		"type": "workpage",
+		"src": {
+			"from": "./internalsamples/product-card/src",
+			"content": "workpage.json"
+		}
+	}
+}

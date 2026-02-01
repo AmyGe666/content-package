@@ -1,0 +1,20 @@
+{
+  "_version": "3.2.0",
+  "identification": {
+    "id": "ns.wzgea_prdpkg.mycontentpackage.sm",
+    "title": "PrdCardRole",
+    "entityType": "role"
+  },
+  "payload": {
+    "spaces": [
+      {
+        "id": "ns.wzgea_prdpkg.prdspace"
+      }
+    ],
+    "apps": [
+      {
+        "id": "ns.wzgea_products_by_category_card.app"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "_version": "3.2.0",
+  "identification": {
+    "id": "ns.wzgea_prdpkg.prdworkpage",
+    "entityType": "workpage"
+  },
+  "payload": {
+    "workpageConfig": {
+      "title": "Product Card Work Package"
+    },
+    "rows": [
+      {
+        "id": "row-1",
+        "rowConfig": {},
+        "columns": [
+          {
+            "id": "col-11",
+            "columnConfig": {},
+            "cells": [
+              {
+                "id": "cell-111",
+                "cellConfig": {},
+                "widgets": [
+                  {
+                    "id": "widg-1111",
+                    "viz": {
+                      "appId": "ns.wzgea_products_by_category_card.app",
+                      "vizId": "ns.wzgea_products_by_category_card.viz"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

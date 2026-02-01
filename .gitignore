@@ -1,0 +1,23 @@
+# BAS / VS Code
+.vscode/
+.che/
+.devcontainer/
+.settings/
+
+# Node
+node_modules/
+npm-debug.log
+
+# Build outputs
+dist/
+build/
+__contents/
+*.zip
+
+# Card test folders
+src/test/
+test/
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
